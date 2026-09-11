@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Rohit Kumar
 
-<!--
-**rohitkumar8873/rohitkumar8873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Azure Databricks & Data Engineer from India 🇮🇳
+<img width="1756" height="895" alt="image" src="https://github.com/user-attachments/assets/6d126c3d-c8b7-447b-91db-365e5ab14627" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 B.Tech in Electronics & Instrumentation Engineering from NIT Nagaland
+- 💼 Working as a Systems Engineer at TCS
+- 🌱 Currently learning **Azure Databricks, PySpark, Kafka, Delta Lake, DLT, DAB, SQL**
+- 🚀 Building end-to-end **Data Engineering Portfolio Projects**
+- 💡 Interested in **Big Data, Cloud, Data Pipelines, and Analytics**
+- 🏆 Solved **800+ coding problems** on coding platforms
+- 💬 Ask me about **Python, SQL, PySpark, Databricks, Kafka, Delta Lake**
+- 📫 Reach me at: roku7250@gmail.com
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-663684250/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/rohitkumar8873)
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,postgresql,git,github,docker,linux,vscode,aws,azure,databricks" />
+</p>
+
+### Data Engineering Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+- Azure Databricks
+- PySpark
+- Delta Lake
+- Apache Kafka
+- Hadoop
+- Hive
+- SQL
+- Data Modeling
+- Medallion Architecture
+
+
+
+---
+
+⭐ Always learning, building, and improving every day.
