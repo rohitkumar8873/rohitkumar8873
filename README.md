@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rohit Kumar
 
 ### Aspiring Azure Databricks & Data Engineer from India 🇮🇳
-<img width="1756" height="895" alt="image" src="https://github.com/user-attachments/assets/6d126c3d-c8b7-447b-91db-365e5ab14627" />
+<!-- <img width="1756" height="895" alt="image" src="https://github.com/user-attachments/assets/6d126c3d-c8b7-447b-91db-365e5ab14627" /> -->
 
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
